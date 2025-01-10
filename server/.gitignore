@@ -1,0 +1,4 @@
+node_modules
+.env
+# Remove or comment out the dist line if it exists
+# dist 
