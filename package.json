@@ -1,6 +1,7 @@
 {
   "name": "x-bit",
   "private": true,
+  "homepage": "https://javesbalaaba1014.github.io/xbit/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
